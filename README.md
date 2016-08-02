@@ -1,0 +1,2 @@
+# duttapartha
+simple repository
